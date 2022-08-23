@@ -1,0 +1,13 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "thanos vassilakis",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "thanosv@gmail.com",
+  "friendly_name": "Locust Web3 Client",
+  "github_user": "thanos",
+  "license": "MIT",
+  "package_name": "locust_web3",
+  "project_name": "locust-web3",
+  "version": "0.0.0"
+}
